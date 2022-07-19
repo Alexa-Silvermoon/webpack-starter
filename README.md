@@ -14,3 +14,9 @@ npm install
   ```
 npm run build
  ```
+
+ para correr el finalmente el programa en chrome:
+
+  ```
+npm start
+ ```
